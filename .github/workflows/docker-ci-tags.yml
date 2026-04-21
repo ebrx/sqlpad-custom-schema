@@ -1,5 +1,6 @@
 # https://github.com/docker/metadata-action
 # https://docs.docker.com/build/ci/github-actions/examples/#manage-tags-and-labels
+# fix: add docker hub credentials
 name: docker-ci-tags
 
 on:
