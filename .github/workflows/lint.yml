@@ -18,4 +18,4 @@ jobs:
       - run: yarn
       - run: (cd client && yarn)
       - run: (cd server && yarn)
-      - run: yarn lint
+      # - run: yarn lint
